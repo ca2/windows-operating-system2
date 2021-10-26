@@ -1,0 +1,27 @@
+[submodule "platform-windows"]
+	path = platform-windows
+	url = ../platform-windows
+[submodule "platform-android"]
+	path = platform-android
+	url = ../platform-android
+[submodule "third-windows"]
+	path = third-windows
+	url = ../third-windows
+[submodule "platform-windows_common"]
+	path = platform-windows_common
+	url = ../platform-windows_common
+[submodule "platform-posix"]
+	path = platform-posix
+	url = ../platform-posix
+[submodule "platform-universal_windows"]
+	path = platform-universal_windows
+	url = ../platform-universal_windows
+[submodule "third-android"]
+	path = third-android
+	url = ../third-android
+[submodule "third-universal_windows"]
+	path = third-universal_windows
+	url = ../third-universal_windows
+[submodule "tool-windows"]
+	path = tool-windows
+	url = ../tool-windows
