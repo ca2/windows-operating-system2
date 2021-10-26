@@ -25,3 +25,6 @@
 [submodule "tool-windows"]
 	path = tool-windows
 	url = ../tool-windows
+[submodule "seed-android"]
+	path = seed-android
+	url = ../seed-android
