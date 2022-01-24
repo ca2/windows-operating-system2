@@ -1,21 +1,21 @@
-[submodule "platform-windows"]
-	path = platform-windows
-	url = ../platform-windows
-[submodule "platform-android"]
-	path = platform-android
-	url = ../platform-android
+[submodule "operating-system-windows"]
+	path = operating-system-windows
+	url = ../operating-system-windows
+[submodule "operating-system-android"]
+	path = operating-system-android
+	url = ../operating-system-android
 [submodule "third-windows"]
 	path = third-windows
 	url = ../third-windows
-[submodule "platform-windows_common"]
-	path = platform-windows_common
-	url = ../platform-windows_common
-[submodule "platform-posix"]
-	path = platform-posix
-	url = ../platform-posix
-[submodule "platform-universal_windows"]
-	path = platform-universal_windows
-	url = ../platform-universal_windows
+[submodule "operating-system-windows_common"]
+	path = operating-system-windows_common
+	url = ../operating-system-windows_common
+[submodule "operating-system-posix"]
+	path = operating-system-posix
+	url = ../operating-system-posix
+[submodule "operating-system-universal_windows"]
+	path = operating-system-universal_windows
+	url = ../operating-system-universal_windows
 [submodule "third-android"]
 	path = third-android
 	url = ../third-android
